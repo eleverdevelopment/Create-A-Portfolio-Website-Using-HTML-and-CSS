@@ -45,18 +45,6 @@ body{
 .navbar a:hover{
     color: #64569a;
 }
-.dark-mode{
-    cursor: pointer;
-    font-size: 1.5rem;
-}
-.dark-mode:hover{
-    color: #64569a;
-}
-
-body.dark-mode-class, header.dark-mode-class, section.dark-mode-class, #home{
-    color: black;
-    background-color: white;
-}
 .home {
     position: relative;
     width: 100%;
